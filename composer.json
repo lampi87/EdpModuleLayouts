@@ -1,16 +1,21 @@
 {
-    "name": "evandotpro/edp-module-layouts",
-    "description": "EdpModuleLayouts is very simple ZF2 module for making module-specific layouts insanely easy.",
+    "name": "lampi87/edp-module-layouts",
+    "description": "EdpModuleLayouts is very simple Laminas module for making module-specific layouts insanely easy.",
     "type": "library",
     "keywords": [
         "zf2"
     ],
-    "homepage": "https://github.com/EvanDotPro/EdpModuleLayouts",
+    "homepage": "https://github.com/lampi87/EdpModuleLayouts",
     "authors": [
         {
             "name": "Evan Coury",
             "email": "me@evancoury.com",
             "homepage": "http://blog.evan.pro/"
+        },
+        {
+            "name": "Alexander Lampret",
+            "email": "office@lampret.co.at",
+            "homepage": "https://github.com/lampi87"
         }
     ],
     "require": {
