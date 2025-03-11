@@ -6,6 +6,7 @@
         "zf2"
     ],
     "homepage": "https://github.com/lampi87/EdpModuleLayouts",
+    "license": "BSD-2-Clause",
     "authors": [
         {
             "name": "Evan Coury",
